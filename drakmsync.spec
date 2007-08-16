@@ -1,7 +1,7 @@
-Summary:  Mobile devices syncrhonisation
+Summary:  Mobile device synchronization tool
 Name:     drakmsync
 Version:  0.1
-Release:  %mkrel 1
+Release:  %mkrel 2
 Source0:  %name-%version.tar.bz2
 License:  GPL
 Group:    System/Configuration/Other
@@ -12,7 +12,8 @@ BuildRoot: %_tmppath/%name-%version-buildroot
 BuildArch: noarch
 
 %description
-Drakmenustyle enables to synchronize a mobile devicesp
+Drakmsync is a tool that makes it easy to synchronize
+mobile devices.
 
 %prep
 %setup -q
