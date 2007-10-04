@@ -1,12 +1,13 @@
 Summary:  Mobile device synchronization tool
 Name:     drakmsync
 Version:  0.4
-Release:  %mkrel 1
+Release:  %mkrel 2
 Source0:  %name-%version.tar.bz2
 License:  GPL
 Group:    System/Configuration/Other
 Url:      http://www.mandrivalinux.com/en/cvs.php3
 Requires: drakxtools => 10.4.53-1mdv2007.0
+Requires: msynctool
 Requires: perl-Gtk2 >= 1.023-1mdk
 BuildRoot: %_tmppath/%name-%version-buildroot
 BuildArch: noarch
