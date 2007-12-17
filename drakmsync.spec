@@ -9,7 +9,6 @@ Url:      http://www.mandrivalinux.com/en/cvs.php3
 Requires: drakxtools => 10.4.53-1mdv2007.0
 Requires: msynctool
 Requires: perl-Gtk2 >= 1.023-1mdk
-BuildRoot: %_tmppath/%name-%version-buildroot
 BuildArch: noarch
 
 %description
