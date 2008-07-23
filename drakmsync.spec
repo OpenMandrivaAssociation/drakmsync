@@ -1,7 +1,7 @@
 Summary:  Mobile device synchronization tool
 Name:     drakmsync
 Version:  0.5
-Release:  %mkrel 1
+Release:  %mkrel 3
 Source0:  %name-%version.tar.bz2
 License:  GPL
 Group:    System/Configuration/Other
